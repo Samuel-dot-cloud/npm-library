@@ -6,6 +6,7 @@
         "start": "ng serve",
         "build": "ng build",
         "build-lib": "ng build nglib",
+        "pack-lib": "cd dist/nglib && npm pack",
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e"
