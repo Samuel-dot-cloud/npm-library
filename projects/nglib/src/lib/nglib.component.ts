@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-nglib',
   template: `
     <p>
-      Hello world!!!🔥 The first npm library built with Angular⚡🌋🌟
+      Hello world!!!🔥 A simple npm library built with Angular⚡🌋🌟
     </p>
     <p>Built with 💌 by Samuel</p>
   `,
