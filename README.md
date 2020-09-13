@@ -1,12 +1,13 @@
 # AngularLibrary
-Angular module that demonstrates the concept of designing a library.
+Angular module that demonstrates the concept of designing an npm library.
 
 ## Install
 First, you have to install the module through npm:
 `npm i @samuel-wahome/nglib`
 
 Afterwards you need to import the `NglibModule` in your module:
-```import {NgModule} from'@angular/core';
+```javascript
+import {NgModule} from'@angular/core';
 import {NglibModule} from '@samuel-wahome/nglib';
  @NgModule({
   imports: [NglibModule]
