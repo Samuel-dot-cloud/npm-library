@@ -1,5 +1,6 @@
 # AngularLibrary
 Angular module that demonstrates the concept of designing an npm library.
+More information can be found [here](npm i @samuel-wahome/nglib).
 
 ## Install
 First, you have to install the module through npm:
